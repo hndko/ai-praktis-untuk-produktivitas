@@ -1,11 +1,22 @@
 # AI Praktis untuk Produktivitas
 
-Dokumentasi pembelajaran, rangkuman materi, dan jawaban pre-test program AI Praktis untuk Produktivitas.
+Repository ini berisi rangkuman pembelajaran dan jawaban pre-test dari materi AI Praktis untuk Produktivitas.
 
-Materi:
-- Dasar AI
-- Generative AI vs Predictive AI
+## Topik yang Dipelajari
+
+- Dasar Artificial Intelligence (AI)
+- Predictive AI dan Generative AI
 - Prompt Engineering
 - Etika dan Privasi AI
+- AI dalam Dunia Akademik
+- AI dalam Dunia Kerja
 - Kolaborasi Manusia dan AI
-- Produktivitas dengan AI
+- Adaptasi terhadap Perkembangan AI
+
+## Dokumen
+
+- [Jawaban Pre-Test](./jawaban-pretest.md)
+
+## Tujuan
+
+Mendokumentasikan proses pembelajaran dan pemahaman konsep dasar AI untuk meningkatkan produktivitas di lingkungan akademik maupun profesional.
